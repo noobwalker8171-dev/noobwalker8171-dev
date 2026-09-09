@@ -1,5 +1,5 @@
-<h1> data-importer="text" align="center">Hey 👋ALI ASAD </h1>
-<h2> data-importer="text" align="center">Backend & FrontEnd Developer </h2>
+<h1 data-importer="text" align="center">Hey 👋ALI ASAD </h1>
+<h2 data-importer="text" align="center">Backend & FrontEnd Developer </h2>
 
 ###
 
