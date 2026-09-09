@@ -1,5 +1,5 @@
 <h1 data-importer="text" align="center">👋ALI ASAD HERE </h1>
-<h2 data-importer="text" align="center">Backend & FrontEnd Developer /br 
+<h2 data-importer="text" align="center">Backend & FrontEnd Developer RUST | FLUTTER | TAILWIND CSS | PYTHON 
 </h2>
 
 ###
